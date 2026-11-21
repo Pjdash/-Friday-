@@ -5,9 +5,8 @@ langchain-core
 langchain-community
 langchain-text-splitters
 
-# LLM providers (keep the ones you'll use)
-langchain-openai
-langchain-anthropic
+# LLM providers (Groq + Gemini only)
+langchain-groq
 langchain-google-genai
 
 # Vector store / RAG
