@@ -1,0 +1,27 @@
+# Core
+langchain
+langgraph
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# LLM providers (keep the ones you'll use)
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+
+# Vector store / RAG
+chromadb
+faiss-cpu
+pypdf
+
+# Backend + UI
+fastapi
+uvicorn[standard]
+
+pydantic
+
+# Utils
+python-dotenv
+requests
+pandas
